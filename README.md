@@ -1,2 +1,1 @@
-# hello
-This repository for practicing the github flow
+github is a good platform for practising code
